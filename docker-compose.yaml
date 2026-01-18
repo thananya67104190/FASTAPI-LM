@@ -1,6 +1,6 @@
 services:
-  api-siwapan:
+  api-thananya:
     build: .
     ports:
-      - "8001:8000"
+      - "8190:8000"
     restart: always
